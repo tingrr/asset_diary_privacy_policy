@@ -1,0 +1,1 @@
+# asset_diary_privacy_policy
