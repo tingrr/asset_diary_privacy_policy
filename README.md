@@ -18,7 +18,7 @@ Email: tingrr88@gmail.com
 ---
 
 
-# Privacy Policy
+# Asset Diary Privacy Policy
 
 **Last Updated:** July 4, 2026
 
