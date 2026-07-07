@@ -1,3 +1,23 @@
+# Asset Diary Support 
+
+## English Version
+
+If you encounter any issues, bugs, or have any suggestions while using the app, please feel free to contact us via the following channels:
+
+Email: tingrr88@gmail.com
+
+---
+
+## 中文版本
+
+如果您在使用过程中遇到任何问题、Bug 或有任何建议，欢迎随时通过以下方式与我们联系：
+
+电子邮箱：tingrr88@gmail.com
+
+
+---
+
+
 # Privacy Policy
 
 **Last Updated:** July 4, 2026
